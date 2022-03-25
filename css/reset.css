@@ -1,0 +1,5 @@
+*{margin: 0; padding: 0; font-size: inherit; font-weight: inherit; box-sizing: border-box;}/*inherit: 크롬기본에서 상속받아라 */
+ul, ol{list-style: none;}
+a{text-decoration: none; color: inherit;}
+body{line-height:1;}
+img{max-width:100%; vertical-align: middle;}/*  이미지사이 공간없애기 */
